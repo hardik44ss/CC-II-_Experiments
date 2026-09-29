@@ -1,0 +1,6 @@
+{
+  "name": "DSA Lab Mastery: 2-Hour Interactive Coding Studio",
+  "description": "An interactive, gamified computer science laboratory featuring 7 core Data Structures & Algorithms experiments with step-by-step visualizers and an in-browser test runner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

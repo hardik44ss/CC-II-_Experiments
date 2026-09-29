@@ -27,16 +27,24 @@
 
 </details>
 
-## 🚀 Getting Started
+## 🚀 Experiments 
 
-```bash
-npm install
-npm run dev
-```
+| Experiment No.   | Topic                                                                                               |
+| ---------------- | --------------------------------------------------------------------------------------------------- |
+| **Experiment 1** | **Linear Search and Binary Search** — Implementation and analysis of searching algorithms in arrays |
+| **Experiment 2** | **Array Operations** — Insertion, Deletion, Traversal, and Updating                                 |
+| **Experiment 3** | **String Manipulation Algorithms** — Reverse, Palindrome, and Frequency Count                       |
+| **Experiment 4** | **Longest Substring Without Repeating Characters** using the Sliding Window technique               |
+| **Experiment 5** | **Comparative Study of Insertion Sort and Shell Sort** — Iterative sorting methods                  |
+| **Experiment 6** | **Merge Sort** using the Divide and Conquer technique                                               |
+| **Experiment 7** | **Quick Sort** using the Partitioning technique                                                     |
+| **Experiment 8** | **Greedy Algorithms** using Activity Selection andFractional Knapsack Problems                          |
+| **Experiment 9** | **Queue and Deque Applications** for Real-Time Problem Solving Techniques                              |
+| **Experiment 10**| DP Solutions Longest IncreasingSubsequence, Trie for prefix matching and dictionary applications    |
 
-Then open the local URL shown by Vite.
 
-## 🧭 Learning Flow
+
+## 🧭 Learning Flow 
 
 1. **Learn & Visualize** — understand the idea with step-by-step animations.
 2. **Code & Verify** — implement the solution and run automated tests.
@@ -46,21 +54,7 @@ Then open the local URL shown by Vite.
 
 React · TypeScript · Vite · Tailwind CSS · Motion · Lucide Icons
 
-## 📁 Main Folders
 
-- `src/components` — reusable interface and learning components
-- `src/components/visualizers` — algorithm visualizations
-- `src/data` — experiment definitions and test cases
-- `src/utils` — code execution helpers
-
-## 📄 Available Scripts
-
-| Command | Purpose |
-| --- | --- |
-| `npm run dev` | Start the development server |
-| `npm run build` | Build for production |
-| `npm run preview` | Preview the production build |
-| `npm run lint` | Check TypeScript types |
 
 ## 🎯 Goal
 
